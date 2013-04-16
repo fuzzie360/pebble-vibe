@@ -1,0 +1,29 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+       {
+        "type":"png",
+        "defName":"IMAGE_MENU_ICON",
+        "file":"images/menu_icon.png"
+       },
+   
+       {
+        "type":"png",
+        "defName":"IMAGE_CONTROLS",
+        "file":"images/controls.png"
+       },
+    
+       {
+        "type":"png",
+        "defName":"IMAGE_BAR_ON",
+        "file":"images/bar_on.png"
+       },
+   
+       {
+        "type":"png",
+        "defName":"IMAGE_BAR_OFF",
+        "file":"images/bar_off.png"
+       }
+      ]
+}
