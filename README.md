@@ -25,7 +25,7 @@ Clone this repository in an appropriate directory:
 
 Set up waf:
 
-	python ~/pebble-dev/pebble-sdk-release-001/tools/create_pebble_project.py --symlink-only ~/pebble-dev/pebble-sdk-release-001/sdk/ pebble-noms
+	python ~/pebble-dev/pebble-sdk-release-001/tools/create_pebble_project.py --symlink-only ~/pebble-dev/pebble-sdk-release-001/sdk/ pebble-vibe
 	cd pebble-vibe
 
 Configure and build:
