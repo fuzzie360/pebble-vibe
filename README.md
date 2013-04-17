@@ -33,7 +33,7 @@ Configure and build:
 	./waf configure
 	./waf build
 
-Install pebble-noms.pbw in build directory
+Install pebble-vibe.pbw in build directory
 
 ## License
 
