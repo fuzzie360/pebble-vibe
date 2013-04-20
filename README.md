@@ -13,6 +13,12 @@ Vibrator app with pulse controls.
 
 ###[Download v1.0](https://www.dropbox.com/s/c4u7kx8b6zuorqk/pebble-vibe-1.0.pbw)
 
+###Tips:
+
+Feel free to tip some bitcents:
+
+	15dYcxzVR6kfZJjYnw5GMFSGQG9nGhDBvd
+
 ## Disclaimer
 
 This is a joke. Please don't actually use this. You may damage your vibrating motor in your pebble.
